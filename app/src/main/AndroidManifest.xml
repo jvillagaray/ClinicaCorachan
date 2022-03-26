@@ -10,16 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ClinicaCorachan">
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.ClinicaCorachan.NoActionBar">
+            android:name=".FormularioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LogueoActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ClinicaCorachan.NoActionBar"></activity>
     </application>
 
 </manifest>

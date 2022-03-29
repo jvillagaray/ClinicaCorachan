@@ -12,19 +12,29 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.clinicacorachan.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_citas"
+        android:name="com.example.clinicacorachan.ui.citas.CitasFragment"
+        android:label="@string/menu_citas"
+        tools:layout="@layout/fragment_citas" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.clinicacorachan.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_historial"
+        android:name="com.example.clinicacorachan.ui.historial.HistorialFragment"
+        android:label="@string/menu_historial"
+        tools:layout="@layout/fragment_historial" />
+    <fragment
+        android:id="@+id/nav_campaña_salud"
+        android:name="com.example.clinicacorachan.ui.recordatorio.RecordatorioFragment"
+        android:label="@string/menu_recordatorio"
+        tools:layout="@layout/fragment_recordatorio" />
     <fragment
         android:id="@+id/nav_digital"
         android:name="com.example.clinicacorachan.ui.digital.DigitalFragment"
         android:label="@string/menu_digital"
+        tools:layout="@layout/fragment_digital" />
+    <fragment
+        android:id="@+id/nav_ubicacion"
+        android:name="com.example.clinicacorachan.ui.ubicacion.UbicacionFragment"
+        android:label="@string/menu_ubicacion"
         tools:layout="@layout/fragment_digital" />
 </navigation>

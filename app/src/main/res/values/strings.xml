@@ -8,7 +8,9 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_citas">Reserva de Citas</string>
+    <string name="menu_historial">Historia Clínica</string>
+    <string name="menu_recordatorio">Campañas de Salud</string>
     <string name="menu_digital">Digitalización</string>
+    <string name="menu_ubicacion">Localización</string>
 </resources>

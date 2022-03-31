@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/activity_logueo.xml" value="0.2786458333333333" />
         <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/content_main.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/fragment_citas.xml" value="0.371875" />
+        <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/fragment_historial.xml" value="0.33" />
+        <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/historia_especifica_fragment.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/CXSOLUTIONS/Documents/Upc/DesarrolloMovil/clinicacorachan/app/src/main/res/layout/historial_clinico_fragment.xml" value="0.2786458333333333" />
         <entry key="..\:/Users/jnunezr/AndroidStudioProjects/ClinicaCorachan/app/src/main/res/drawable/side_nav_bar.xml" value="0.1665" />
         <entry key="..\:/Users/jnunezr/AndroidStudioProjects/ClinicaCorachan/app/src/main/res/layout/activity_formulario.xml" value="0.2312958435207824" />
         <entry key="..\:/Users/jnunezr/AndroidStudioProjects/ClinicaCorachan/app/src/main/res/layout/activity_logueo.xml" value="0.264" />

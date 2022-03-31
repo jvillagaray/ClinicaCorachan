@@ -9,6 +9,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+import com.example.clinicacorachan.ui.historial.HistorialClinico;
+
 public class LogueoActivity extends AppCompatActivity {
 
     @Override
@@ -31,5 +33,9 @@ public class LogueoActivity extends AppCompatActivity {
 
     public void registrar(View v){
         startActivity(new Intent(this,FormularioActivity.class));
+    }
+
+    public void historial(View v){
+        startActivity(new Intent(this, HIstorialActivity.class));
     }
 }
